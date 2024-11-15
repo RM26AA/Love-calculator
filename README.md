@@ -27,15 +27,15 @@ The Love Calculator is a playful web application that generates a "love compatib
    cd your-repository-name
 3. Open the index.html file in a web browser to launch the app.
 
-How to Use:
-Enter your name and your crush's name in the provided fields.
-Click the Calculate button to view your "love compatibility" percentage.
-The result will appear below the button with a percentage display.
+## How to Use:
+- Enter your name and your crush's name in the provided fields.
+- Click the Calculate button to view your "love compatibility" percentage.
+- The result will appear below the button with a percentage display.
 
-License:
+## License:
 This project is open-source and available under the MIT License.
 
-Author:
+## Author:
 Romeo Maunick - A developer passionate about creating engaging and interactive web experiences.
 
 
